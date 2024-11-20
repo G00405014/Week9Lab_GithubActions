@@ -22,4 +22,4 @@ jobs:
           distribution: 'temurin'
 
       -  name: Package with Maven
-         run: mvn clean Package
+         run: mvn clean package
